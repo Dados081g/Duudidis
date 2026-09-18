@@ -15,7 +15,7 @@ import base64
 
 from aiogram import Bot
 
-BOT_TOKEN = "ВАШ_ТОКЕН_ЗДЕСЬ"  # тот же токен, что и в bot.py
+BOT_TOKEN = "8342142309:AAHnGHfqM5M0_PI1WjJkfscvRk-yZemM8Ic"  # тот же токен, что и в bot.py
 
 # Реальные ID premium-эмодзи, которые вы присылали
 SECTION_EMOJI_IDS = {
